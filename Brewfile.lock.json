@@ -1,0 +1,39 @@
+{
+  "entries": {
+    "brew": {
+      "xcodegen": {
+        "version": "2.18.0",
+        "bottle": {
+          "cellar": ":any_skip_relocation",
+          "prefix": "/usr/local",
+          "files": {
+            "big_sur": {
+              "url": "https://homebrew.bintray.com/bottles/xcodegen-2.18.0.big_sur.bottle.tar.gz",
+              "sha256": "954d8df6e5e76c59471482dce21df05bed22382e30d1b5cc9bfa6e024508106c"
+            },
+            "catalina": {
+              "url": "https://homebrew.bintray.com/bottles/xcodegen-2.18.0.catalina.bottle.tar.gz",
+              "sha256": "72a74170b8b457db6bce90da3daaa6520a24bef3d46d4dfbfd3599bfe45a8b5b"
+            },
+            "mojave": {
+              "url": "https://homebrew.bintray.com/bottles/xcodegen-2.18.0.mojave.bottle.tar.gz",
+              "sha256": "1d64fc7e6f3ade59a08eb9b9105c3b1d20d8d9cb4b4de2539590733fd203e014"
+            }
+          }
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "catalina": {
+        "HOMEBREW_VERSION": "2.6.2",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "e1824a3281a11e38eb6cef2bdc924fd34a909952",
+        "CLT": "12.2.0.0.1.1604628099",
+        "Xcode": "12.3",
+        "macOS": "10.15.7"
+      }
+    }
+  }
+}
