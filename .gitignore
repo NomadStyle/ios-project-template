@@ -93,3 +93,8 @@ iOSInjectionProject/
 # This is for the dependencies
 
 bundle/vendors
+
+# Add the project file to the gitignore
+
+*.xcodeproj
+*.xcworkspace
