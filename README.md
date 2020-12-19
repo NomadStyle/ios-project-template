@@ -1,8 +1,36 @@
-# ios-swift-ui
+# ios-project-template
 
 ## Setting up the project and environment
 
-# Ruby
+# Stack
+
+Build on ruby 2.7.2
+MacOS Catalina 10.15.7
+Xcode 12.3
+
+# Stack
+
+## Bundler
+
+Tool for putting the ruby gems together
+
+## Xcodegen
+
+Used to generate the project and resources for it
+
+## Fastlane
+
+Used to automate a lot of tasks for everyday developer life
+
+## Cocoapods
+
+Manage third party dependencies
+
+## SwiftUI
+
+Application setup for using SwiftUI
+
+# FAQ
 
 Brewbundle:
 https://thoughtbot.com/blog/brewfile-a-gemfile-but-for-homebrew
@@ -16,7 +44,3 @@ https://bundler.io
 Ruby:
 https://stackify.com/install-ruby-on-your-mac-everything-you-need-to-get-going/
 brew install ruby
-
-export PATH="/usr/local/opt/ruby/bin:$PATH"
-export LDFLAGS="-L/usr/local/opt/ruby/lib"
-export CPPFLAGS="-I/usr/local/opt/ruby/include"
