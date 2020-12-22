@@ -18,6 +18,10 @@ Tool for putting the ruby gems together
 
 Used to generate the project and resources for it
 
+## SwiftGen
+
+Used to generate assets
+
 ## Fastlane
 
 Used to automate a lot of tasks for everyday developer life
