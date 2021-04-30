@@ -1,5 +1,5 @@
 init:
-	brew bundle install
+	brew bundle install --no-lock
 	bundle install --path bundle/vendors
 	brew bundle
 xcode:

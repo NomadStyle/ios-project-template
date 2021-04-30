@@ -68,7 +68,7 @@ line_length:
 identifier_name:
   min_length: # only min_length
     error: 3 # only error
-  excluded: [id, x, y, v, dx, dy, vc, ]
+  excluded: [id, x, y, v, dx, dy, vc, i, k, j]
 
 type_name:
   min_length:

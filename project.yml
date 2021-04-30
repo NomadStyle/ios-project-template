@@ -13,7 +13,6 @@ targets:
     type: framework
     platform: iOS
     deploymentTarget: "14.0"
-    requiresObjCLinking: true
     settings:
       base:
         SUPPORTS_MACCATALYST: false
@@ -59,7 +58,6 @@ targetTemplates:
     type: application
     platform: iOS
     deploymentTarget: "14.0"
-    requiresObjCLinking: true
     settings:
       base:
         SUPPORTS_MACCATALYST: false
